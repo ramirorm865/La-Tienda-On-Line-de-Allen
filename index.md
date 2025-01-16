@@ -1,4 +1,45 @@
----
-title: Welcome to my blog
----
-
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	  
+		<title>La Tienda On-Line de Allen</title>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="styles.css"/>
+		<style>
+		h1 {
+			color: orange;
+			background:	gray;
+			text-align: center;
+			}
+		body {
+            max-width: 500px;
+		.flex-container {
+			background-color: yellow;
+			max-width: 500px;
+			}
+		img {
+			max-width: 100%;
+			height: auto;
+			}
+			
+			
+			
+		</style>
+	</head>
+	<body>
+	   
+		<h1> La Tienda On-Line de Allen </h1>
+		<div class="flex-container">
+		<div> Conjunto de Bombacha y Corpiño Rojo 
+		<img src="C:\Users\ramiro\Desktop\fotos ropa erika\foto1.jpg" alt="bombacha y corpiño rojos" ></div>
+		<div> Pulsera 
+		<img src="C:\Users\ramiro\Desktop\fotos ropa erika\foto2.jpg" alt="pulsera"></div>
+		<div> Cartera Maarrón
+		<img src="C:\Users\ramiro\Desktop\fotos ropa erika\foto3.jpg" alt="cartera marrón"></div>
+		<div> Conjunto de Bombacha y Corpiño Negros
+		<img src="C:\Users\ramiro\Desktop\fotos ropa erika\foto4.jpg" alt="bombacha y corpiño negros"></div>
+		</div>
+				
+	<body>
+	<footer>
+</html>
